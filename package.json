@@ -1,0 +1,22 @@
+{
+  "name": "eslint-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "optionalDependencies": {
+    "eslint": "*",
+    "eslint-plugin-react": "*",
+    "eslint-config-airbnb": "*",
+    "eslint-plugin-jsx-a11y": "*",
+    "eslint-plugin-import": "*",
+    "eslint-import-resolver-webpack": "*"
+  },
+  "dependencies": {
+    "webpack": "^1.13.0"
+  }
+}
